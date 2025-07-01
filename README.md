@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Zuha Muhammad Ismail
 
-<!--
-**Zuhaismail/Zuhaismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year BS Software Engineering student at Sindh Madrassatul Islam University  
+🤖 Passionate about Python, Artificial Intelligence & real-world problem solving
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- 💻 Python, Machine Learning, HTML5, CSS3
+- ☁️ Cloud: AWS Architecture, Azure Architecture
+- 🐳 Docker, RHEL & Ubuntu Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- 🔍 Looking to collaborate on AI and ML projects
+- 🚀 Always eager to learn and work on innovative technologies
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/zuha-muhammad-ismail-794b6b244)
